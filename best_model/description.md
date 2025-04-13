@@ -1,0 +1,1 @@
+Place best_model.npz here (Suggested. test.py and para_visualize.ipynb will produce several pngs at the same directory of the model, so you may collect them in a folder)
